@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Trust Security Monitoring Dashboard",
+  "description": "Enterprise Zero-Trust cybersecurity monitoring platform for continuous user, device, and network access evaluation, threat detection, and incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
